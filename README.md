@@ -5,6 +5,7 @@ Pasos para ejecutar este proyecto:
 1. Clonar Repositorio
 2. Ejecutar 'npm install' para reconstruir los módulos de node
 3. Correr el DevServer 'npm run dev'
+4. Abrir el proyecto en el http://localhost/
 
 ## Producción
 
